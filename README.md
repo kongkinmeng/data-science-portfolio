@@ -10,3 +10,6 @@ This repository hosts the [GitHub Pages](https://kongkinmeng.github.io/data-scie
 
 ## Featured Project
 - [Global City Population Visualization](https://github.com/kongkinmeng/CISC7204-mc652817-2026GitHub/tree/main/Tutorial08-Cities)
+
+## Quality Checks (Practice 09, Step 4)
+The portfolio website, its figure images, and the project repository link were verified publicly accessible before submission. After a classmate review (Fong Chin Wai, MC653748), figure captions were added as the required improvement (commit `5feaeeb`), and the public Pages site was re-verified afterwards.

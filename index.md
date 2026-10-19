@@ -30,6 +30,16 @@ Using `geoplotlib`, this project maps ~3.17 million city records from the GeoNam
 
 **Repository:** [CISC7204-mc652817-2026GitHub → Tutorial08-Cities](https://github.com/kongkinmeng/CISC7204-mc652817-2026GitHub/tree/main/Tutorial08-Cities)
 
+## Quality Checks (Practice 09, Step 4)
+
+Before submission, the whole portfolio was reviewed — not only the visualizations:
+
+- **Website & links checked:** the live Pages site and the project repository link were verified publicly accessible (HTTP 200).
+- **Images checked:** both figure images (`images/cell5.png`, `images/cell11.png`) were verified reachable and rendering on the live site.
+- **Classmate feedback:** Fong Chin Wai (MC653748) reviewed the site and suggested adding captions to the two figures to clarify what each visualization shows.
+- **Improvement made & committed:** figure captions were added (commit `5feaeeb`).
+- **Pre-publish review:** the Pages site was re-verified as publicly accessible after the change.
+
 ---
 
 *Built with GitHub Pages. Last updated: October 2026.*
