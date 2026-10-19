@@ -22,9 +22,11 @@ Using `geoplotlib`, this project maps ~3.17 million city records from the GeoNam
 - Only 3,527 city records report a population above 100,000; these concentrate in Europe and Asia.
 - Germany and Great Britain form dense Delaunay networks of large cities, reflecting high urbanization.
 
-![All cities dot map](images/cell5.png)
+![Figure 1: Global distribution of city records](images/cell5.png)
+*Figure 1: Dot-density map of all ~3.17M city records in the dataset.*
 
-![Large cities Voronoi diagram](images/cell11.png)
+![Figure 2: Voronoi diagram of large cities](images/cell11.png)
+*Figure 2: Voronoi tessellation of cities with a recorded population above 100,000.*
 
 **Repository:** [CISC7204-mc652817-2026GitHub → Tutorial08-Cities](https://github.com/kongkinmeng/CISC7204-mc652817-2026GitHub/tree/main/Tutorial08-Cities)
 
